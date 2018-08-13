@@ -1,0 +1,95 @@
+2018-08-13T09:20:03.783Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-13T09:20:03.786Z - normal: checking language setting...
+2018-08-13T09:20:03.786Z - normal: Language: zh
+2018-08-13T09:20:04.629Z - success: protocol editor-framework registered
+2018-08-13T09:20:04.629Z - success: protocol app registered
+2018-08-13T09:20:04.629Z - success: protocol theme registered
+2018-08-13T09:20:04.629Z - success: protocol packages registered
+2018-08-13T09:20:04.629Z - success: protocol unpack registerred
+2018-08-13T09:20:04.629Z - success: protocol disable-commonjs registerred
+2018-08-13T09:20:06.540Z - normal: connected!
+2018-08-13T09:20:06.542Z - normal: Check project /Users/zwf/Documents/my_space/my-base-componet
+2018-08-13T09:20:06.544Z - normal: Initializing Cocos2d
+2018-08-13T09:20:06.700Z - normal: Initializing Asset Database
+2018-08-13T09:20:06.731Z - success: protocol uuid registerred
+2018-08-13T09:20:06.731Z - success: protocol db registerred
+2018-08-13T09:20:06.732Z - success: protocol thumbnail registerred
+2018-08-13T09:20:06.732Z - normal: Loading editor/builtin packages
+2018-08-13T09:20:06.750Z - success: anysdk loaded
+2018-08-13T09:20:06.856Z - success: assets loaded
+2018-08-13T09:20:06.860Z - success: builder loaded
+2018-08-13T09:20:06.862Z - success: cocos-analytics loaded
+2018-08-13T09:20:06.866Z - success: console loaded
+2018-08-13T09:20:06.870Z - success: hierarchy loaded
+2018-08-13T09:20:06.874Z - success: inspector loaded
+2018-08-13T09:20:06.875Z - success: keystore loaded
+2018-08-13T09:20:06.878Z - success: node-library loaded
+2018-08-13T09:20:06.880Z - success: package-asset loaded
+2018-08-13T09:20:06.882Z - success: preferences loaded
+2018-08-13T09:20:06.885Z - success: project-exporter loaded
+2018-08-13T09:20:06.899Z - success: project-importer loaded
+2018-08-13T09:20:06.902Z - success: project-settings loaded
+2018-08-13T09:20:06.907Z - success: ui-kit loaded
+2018-08-13T09:20:06.911Z - success: ui-grid loaded
+2018-08-13T09:20:06.921Z - success: scene loaded
+2018-08-13T09:20:06.922Z - success: sprite-editor loaded
+2018-08-13T09:20:06.929Z - success: store loaded
+2018-08-13T09:20:06.936Z - success: timeline loaded
+2018-08-13T09:20:06.936Z - normal: Loading builtin packages
+2018-08-13T09:20:06.940Z - success: asset-db-debugger loaded
+2018-08-13T09:20:06.941Z - success: color-picker loaded
+2018-08-13T09:20:06.945Z - success: package-manager loaded
+2018-08-13T09:20:06.950Z - success: sdkbox loaded
+2018-08-13T09:20:06.954Z - success: tester loaded
+2018-08-13T09:20:06.957Z - success: ui-kit-preview-extra loaded
+2018-08-13T09:20:06.961Z - success: ui-kit-preview loaded
+2018-08-13T09:20:06.964Z - success: ui-tree loaded
+2018-08-13T09:20:07.845Z - normal: Initializing project /Users/zwf/Documents/my_space/my-base-componet
+2018-08-13T09:20:07.849Z - normal: Loading packages
+2018-08-13T09:20:07.854Z - normal: Watching packages
+2018-08-13T09:20:07.865Z - normal: Run Application
+2018-08-13T09:20:08.474Z - success: preview server running at http://localhost:7457
+2018-08-13T09:20:13.764Z - normal: 1.8.2
+2018-08-13T09:20:14.091Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-08-13T09:20:14.092Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-08-13T09:20:14.092Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-08-13T09:20:14.093Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-08-13T09:20:14.096Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13

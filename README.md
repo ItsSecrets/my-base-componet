@@ -1,1 +1,2 @@
-# my-base-componet
+# hello-world
+Hello world new project template.
