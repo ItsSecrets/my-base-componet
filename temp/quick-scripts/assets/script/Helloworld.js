@@ -7,10 +7,41 @@ var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
 var Helloworld = /** @class */ (function (_super) {
     __extends(Helloworld, _super);
     function Helloworld() {
-        return _super !== null && _super.apply(this, arguments) || this;
+        var _this = _super !== null && _super.apply(this, arguments) || this;
+        _this.cardEffcPrefab = null;
+        _this.mohuPrefab = null;
+        _this.machinePrefab = null;
+        return _this;
     }
+    Helloworld.prototype.onLoad = function () {
+        // this.initEraserEffect();
+        // this.initMohuPrefab();
+        this.initStateMachine();
+    };
     Helloworld.prototype.start = function () {
     };
+    // 橡皮擦效果
+    Helloworld.prototype.initEraserEffect = function () {
+        var eraserNode = cc.instantiate(this.cardEffcPrefab);
+        eraserNode.parent = this.node;
+    };
+    Helloworld.prototype.initMohuPrefab = function () {
+        var mohuNode = cc.instantiate(this.mohuPrefab);
+        mohuNode.parent = this.node;
+    };
+    Helloworld.prototype.initStateMachine = function () {
+        var machineNode = cc.instantiate(this.machinePrefab);
+        machineNode.parent = this.node;
+    };
+    __decorate([
+        property(cc.Prefab)
+    ], Helloworld.prototype, "cardEffcPrefab", void 0);
+    __decorate([
+        property(cc.Prefab)
+    ], Helloworld.prototype, "mohuPrefab", void 0);
+    __decorate([
+        property(cc.Prefab)
+    ], Helloworld.prototype, "machinePrefab", void 0);
     Helloworld = __decorate([
         ccclass
     ], Helloworld);

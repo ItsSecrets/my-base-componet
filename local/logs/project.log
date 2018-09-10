@@ -1,56 +1,57 @@
-2018-08-13T09:20:03.783Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-13T09:20:03.786Z - normal: checking language setting...
-2018-08-13T09:20:03.786Z - normal: Language: zh
-2018-08-13T09:20:04.629Z - success: protocol editor-framework registered
-2018-08-13T09:20:04.629Z - success: protocol app registered
-2018-08-13T09:20:04.629Z - success: protocol theme registered
-2018-08-13T09:20:04.629Z - success: protocol packages registered
-2018-08-13T09:20:04.629Z - success: protocol unpack registerred
-2018-08-13T09:20:04.629Z - success: protocol disable-commonjs registerred
-2018-08-13T09:20:06.540Z - normal: connected!
-2018-08-13T09:20:06.542Z - normal: Check project /Users/zwf/Documents/my_space/my-base-componet
-2018-08-13T09:20:06.544Z - normal: Initializing Cocos2d
-2018-08-13T09:20:06.700Z - normal: Initializing Asset Database
-2018-08-13T09:20:06.731Z - success: protocol uuid registerred
-2018-08-13T09:20:06.731Z - success: protocol db registerred
-2018-08-13T09:20:06.732Z - success: protocol thumbnail registerred
-2018-08-13T09:20:06.732Z - normal: Loading editor/builtin packages
-2018-08-13T09:20:06.750Z - success: anysdk loaded
-2018-08-13T09:20:06.856Z - success: assets loaded
-2018-08-13T09:20:06.860Z - success: builder loaded
-2018-08-13T09:20:06.862Z - success: cocos-analytics loaded
-2018-08-13T09:20:06.866Z - success: console loaded
-2018-08-13T09:20:06.870Z - success: hierarchy loaded
-2018-08-13T09:20:06.874Z - success: inspector loaded
-2018-08-13T09:20:06.875Z - success: keystore loaded
-2018-08-13T09:20:06.878Z - success: node-library loaded
-2018-08-13T09:20:06.880Z - success: package-asset loaded
-2018-08-13T09:20:06.882Z - success: preferences loaded
-2018-08-13T09:20:06.885Z - success: project-exporter loaded
-2018-08-13T09:20:06.899Z - success: project-importer loaded
-2018-08-13T09:20:06.902Z - success: project-settings loaded
-2018-08-13T09:20:06.907Z - success: ui-kit loaded
-2018-08-13T09:20:06.911Z - success: ui-grid loaded
-2018-08-13T09:20:06.921Z - success: scene loaded
-2018-08-13T09:20:06.922Z - success: sprite-editor loaded
-2018-08-13T09:20:06.929Z - success: store loaded
-2018-08-13T09:20:06.936Z - success: timeline loaded
-2018-08-13T09:20:06.936Z - normal: Loading builtin packages
-2018-08-13T09:20:06.940Z - success: asset-db-debugger loaded
-2018-08-13T09:20:06.941Z - success: color-picker loaded
-2018-08-13T09:20:06.945Z - success: package-manager loaded
-2018-08-13T09:20:06.950Z - success: sdkbox loaded
-2018-08-13T09:20:06.954Z - success: tester loaded
-2018-08-13T09:20:06.957Z - success: ui-kit-preview-extra loaded
-2018-08-13T09:20:06.961Z - success: ui-kit-preview loaded
-2018-08-13T09:20:06.964Z - success: ui-tree loaded
-2018-08-13T09:20:07.845Z - normal: Initializing project /Users/zwf/Documents/my_space/my-base-componet
-2018-08-13T09:20:07.849Z - normal: Loading packages
-2018-08-13T09:20:07.854Z - normal: Watching packages
-2018-08-13T09:20:07.865Z - normal: Run Application
-2018-08-13T09:20:08.474Z - success: preview server running at http://localhost:7457
-2018-08-13T09:20:13.764Z - normal: 1.8.2
-2018-08-13T09:20:14.091Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+2018-09-08T06:47:36.116Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-08T06:47:36.120Z - normal: checking language setting...
+2018-09-08T06:47:36.120Z - normal: Language: zh
+2018-09-08T06:47:36.875Z - success: protocol editor-framework registered
+2018-09-08T06:47:36.875Z - success: protocol app registered
+2018-09-08T06:47:36.875Z - success: protocol theme registered
+2018-09-08T06:47:36.876Z - success: protocol packages registered
+2018-09-08T06:47:36.876Z - success: protocol unpack registerred
+2018-09-08T06:47:36.876Z - success: protocol disable-commonjs registerred
+2018-09-08T06:47:38.511Z - normal: connected!
+2018-09-08T06:47:38.514Z - normal: Check project /Users/zwf/Documents/my_space/my-base-componet
+2018-09-08T06:47:38.515Z - normal: Initializing Cocos2d
+2018-09-08T06:47:38.691Z - normal: Initializing Asset Database
+2018-09-08T06:47:38.716Z - success: protocol uuid registerred
+2018-09-08T06:47:38.716Z - success: protocol db registerred
+2018-09-08T06:47:38.716Z - success: protocol thumbnail registerred
+2018-09-08T06:47:38.716Z - normal: Loading editor/builtin packages
+2018-09-08T06:47:38.732Z - success: anysdk loaded
+2018-09-08T06:47:38.842Z - success: assets loaded
+2018-09-08T06:47:38.846Z - success: builder loaded
+2018-09-08T06:47:38.847Z - success: cocos-analytics loaded
+2018-09-08T06:47:38.853Z - success: console loaded
+2018-09-08T06:47:38.857Z - success: hierarchy loaded
+2018-09-08T06:47:38.861Z - success: inspector loaded
+2018-09-08T06:47:38.862Z - success: keystore loaded
+2018-09-08T06:47:38.865Z - success: node-library loaded
+2018-09-08T06:47:38.868Z - success: package-asset loaded
+2018-09-08T06:47:38.870Z - success: preferences loaded
+2018-09-08T06:47:38.873Z - success: project-exporter loaded
+2018-09-08T06:47:38.887Z - success: project-importer loaded
+2018-09-08T06:47:38.890Z - success: project-settings loaded
+2018-09-08T06:47:38.894Z - success: ui-kit loaded
+2018-09-08T06:47:38.905Z - success: ui-grid loaded
+2018-09-08T06:47:38.909Z - success: scene loaded
+2018-09-08T06:47:38.911Z - success: sprite-editor loaded
+2018-09-08T06:47:38.920Z - success: store loaded
+2018-09-08T06:47:38.926Z - success: timeline loaded
+2018-09-08T06:47:38.926Z - normal: Loading builtin packages
+2018-09-08T06:47:38.932Z - success: asset-db-debugger loaded
+2018-09-08T06:47:38.934Z - success: color-picker loaded
+2018-09-08T06:47:38.938Z - success: package-manager loaded
+2018-09-08T06:47:39.017Z - success: sdkbox loaded
+2018-09-08T06:47:39.024Z - normal: last time update is in one day
+2018-09-08T06:47:39.025Z - success: tester loaded
+2018-09-08T06:47:39.030Z - success: ui-kit-preview-extra loaded
+2018-09-08T06:47:39.034Z - success: ui-kit-preview loaded
+2018-09-08T06:47:39.037Z - success: ui-tree loaded
+2018-09-08T06:47:40.065Z - normal: Initializing project /Users/zwf/Documents/my_space/my-base-componet
+2018-09-08T06:47:40.067Z - normal: Loading packages
+2018-09-08T06:47:40.074Z - normal: Watching packages
+2018-09-08T06:47:40.084Z - normal: Run Application
+2018-09-08T06:47:40.514Z - success: preview server running at http://localhost:7456
+2018-09-08T06:47:45.459Z - normal: 1.8.2
+2018-09-08T06:47:45.674Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -58,7 +59,7 @@
     // After:
     @property(...)
     value = 0;
-2018-08-13T09:20:14.092Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+2018-09-08T06:47:45.675Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -66,7 +67,7 @@
     // After:
     @property(...)
     value = 0;
-2018-08-13T09:20:14.092Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+2018-09-08T06:47:45.675Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -74,7 +75,7 @@
     // After:
     @property(...)
     value = 0;
-2018-08-13T09:20:14.093Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+2018-09-08T06:47:45.675Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -82,7 +83,7 @@
     // After:
     @property(...)
     value = 0;
-2018-08-13T09:20:14.096Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+2018-09-08T06:47:45.679Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
     at Module._resolveFilename (module.js:470:15)
     at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
     at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
@@ -93,3 +94,2762 @@
     at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
     at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
     at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:47:45.681Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:45.681Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:45.682Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:45.684Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:45.684Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:45.684Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:45.685Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:45.687Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.741Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.742Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.742Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.742Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.743Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:47:52.743Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.743Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.744Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:52.744Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:52.745Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:52.746Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:52.747Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:52.749Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.388Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.388Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.388Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.388Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.388Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:47:58.389Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.389Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.390Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:47:58.390Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:58.390Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:58.391Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:58.391Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:47:58.392Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:16.487Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/script/StateMachine/state-machine11.js.meta
+2018-09-08T06:51:17.483Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.483Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.484Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.484Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.487Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:51:17.488Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.488Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.488Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:17.490Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:17.491Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:17.492Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:17.492Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:17.493Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:24.375Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 855.00
+2018-09-08T06:51:24.383Z - normal: Simulator: FRAME SCALE = 0.50
+2018-09-08T06:51:24.398Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-09-08T06:51:24.419Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-09-08T06:51:24.420Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-09-08T06:51:24.509Z - normal: Simulator: 
+2018-09-08T06:51:24.510Z - normal: Simulator: {
+2018-09-08T06:51:24.510Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-09-08T06:51:24.510Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-09-08T06:51:24.510Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-09-08T06:51:24.510Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-09-08T06:51:24.511Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-09-08T06:51:24.511Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-09-08T06:51:24.511Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-09-08T06:51:24.511Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-09-08T06:51:24.511Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-09-08T06:51:24.512Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-09-08T06:51:24.512Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-09-08T06:51:24.512Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-09-08T06:51:24.512Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-09-08T06:51:24.512Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-09-08T06:51:24.512Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-09-08T06:51:24.513Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.32.48
+2018-09-08T06:51:24.513Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-09-08T06:51:24.513Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-09-08T06:51:24.513Z - normal: Simulator: }
+2018-09-08T06:51:24.514Z - normal: Simulator: 
+2018-09-08T06:51:24.514Z - normal: Simulator: 
+2018-09-08T06:51:24.514Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-09-08T06:51:24.563Z - normal: Simulator: Project Config:
+2018-09-08T06:51:24.564Z - normal: Simulator:     project dir: /Applications/CocosCreator1.8.2.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-09-08T06:51:24.564Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-09-08T06:51:24.564Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-09-08T06:51:24.565Z - normal: Simulator:     frame size: 750 x 1334
+2018-09-08T06:51:24.566Z - normal: Simulator:     frame scale: 0.50
+2018-09-08T06:51:24.567Z - normal: Simulator:     show console: NO
+2018-09-08T06:51:24.567Z - normal: Simulator:     write debug log: NO ()
+2018-09-08T06:51:24.567Z - normal: Simulator:     listen: 
+2018-09-08T06:51:24.568Z - normal: Simulator:     debugger: none
+2018-09-08T06:51:24.568Z - normal: Simulator:     add searching path:
+2018-09-08T06:51:24.568Z - normal: Simulator: ------------------------------------------------
+2018-09-08T06:51:24.574Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-08T06:51:24.575Z - normal: Simulator: ------------------------------------------------
+2018-09-08T06:51:24.575Z - normal: Simulator: Initializing JavaScriptCore 
+2018-09-08T06:51:24.688Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-09-08T06:51:24.892Z - normal: Simulator: iShow!
+2018-09-08T06:51:25.109Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "scrollview" property at its declaration: 😂
+2018-09-08T06:51:25.109Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.110Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.110Z - normal: Simulator:     value;
+2018-09-08T06:51:25.110Z - normal: Simulator: 
+2018-09-08T06:51:25.110Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.111Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.112Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.112Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "mask" property at its declaration: 😂
+2018-09-08T06:51:25.112Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.113Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.116Z - normal: Simulator:     value;
+2018-09-08T06:51:25.117Z - normal: Simulator: 
+2018-09-08T06:51:25.117Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.117Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.117Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.118Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "content" property at its declaration: 😂
+2018-09-08T06:51:25.119Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.120Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.121Z - normal: Simulator:     value;
+2018-09-08T06:51:25.121Z - normal: Simulator: 
+2018-09-08T06:51:25.122Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.122Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.122Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.122Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+2018-09-08T06:51:25.122Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.126Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.127Z - normal: Simulator:     value;
+2018-09-08T06:51:25.127Z - normal: Simulator: 
+2018-09-08T06:51:25.128Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.129Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.129Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.130Z - normal: Simulator: ScriptEngine::runScript script ../../appdata, buffer is empty!
+2018-09-08T06:51:25.130Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Users/nantas/fireball-x/fireball_1.8-release/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2018-09-08T06:51:25.130Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+2018-09-08T06:51:25.130Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.130Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.131Z - normal: Simulator:     value;
+2018-09-08T06:51:25.131Z - normal: Simulator: 
+2018-09-08T06:51:25.131Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.131Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.131Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.131Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "mask" property at its declaration: 😂
+2018-09-08T06:51:25.132Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.132Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.132Z - normal: Simulator:     value;
+2018-09-08T06:51:25.133Z - normal: Simulator: 
+2018-09-08T06:51:25.133Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.134Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.134Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.134Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+2018-09-08T06:51:25.134Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.134Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.134Z - normal: Simulator:     value;
+2018-09-08T06:51:25.135Z - normal: Simulator: 
+2018-09-08T06:51:25.135Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.136Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.136Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.136Z - normal: Simulator: ScriptEngine::runScript script ./../../../../../work/nurture/nurture/assets/script/BlotDataManager, buffer is empty!
+2018-09-08T06:51:25.136Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Users/nantas/fireball-x/fireball_1.8-release/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2018-09-08T06:51:25.137Z - normal: Simulator: ScriptEngine::runScript script ./../../../../../work/nurture/nurture/assets/script/CommonDef, buffer is empty!
+2018-09-08T06:51:25.137Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Users/nantas/fireball-x/fireball_1.8-release/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2018-09-08T06:51:25.137Z - normal: Simulator: ScriptEngine::runScript script ./../../../../../work/nurture/nurture/creator.d, buffer is empty!
+2018-09-08T06:51:25.137Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Users/nantas/fireball-x/fireball_1.8-release/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2018-09-08T06:51:25.137Z - normal: Simulator: ScriptEngine::runScript script ./../../../../../work/nurture/nurture/assets/script/EventCenter, buffer is empty!
+2018-09-08T06:51:25.137Z - normal: Simulator: [ERROR] Failed to invoke require, location: /Users/nantas/fireball-x/fireball_1.8-release/cocos2d-x-lite/cocos/scripting/js-bindings/manual/jsb_global.cpp:211
+2018-09-08T06:51:25.138Z - normal: Simulator: JS: [WARN]: Please specifiy a default value for "mask" property at its declaration: 😂
+2018-09-08T06:51:25.138Z - normal: Simulator:     // Before:
+2018-09-08T06:51:25.138Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.139Z - normal: Simulator:     value;
+2018-09-08T06:51:25.139Z - normal: Simulator: 
+2018-09-08T06:51:25.139Z - normal: Simulator:     // After:
+2018-09-08T06:51:25.141Z - normal: Simulator:     @property(...)
+2018-09-08T06:51:25.141Z - normal: Simulator:     value = 0;
+2018-09-08T06:51:25.237Z - normal: Simulator: JS: InitScene: 3.716000000000008ms
+2018-09-08T06:51:25.237Z - normal: Simulator: JS: AutoRelease: 0.1190000000000282ms
+2018-09-08T06:51:25.238Z - normal: Simulator: JS: Destroy: 0.06100000000003547ms
+2018-09-08T06:51:25.239Z - normal: Simulator: JS: AttachPersist: 0.005999999999971806ms
+2018-09-08T06:51:25.250Z - normal: Simulator: JS: [INFO]: resize_content 300 600 300 600 300 1600
+2018-09-08T06:51:25.257Z - normal: Simulator: JS: Activate: 19.296999999999912ms
+2018-09-08T06:51:25.281Z - normal: Simulator: JS: KKK#ifdef GL_ES
+2018-09-08T06:51:25.282Z - normal: Simulator: precision mediump float;
+2018-09-08T06:51:25.283Z - normal: Simulator: #endif
+2018-09-08T06:51:25.283Z - normal: Simulator: varying vec2 v_texCoord;
+2018-09-08T06:51:25.284Z - normal: Simulator: varying vec4 v_fragmentColor;
+2018-09-08T06:51:25.285Z - normal: Simulator: 
+2018-09-08T06:51:25.287Z - normal: Simulator: uniform float time;
+2018-09-08T06:51:25.287Z - normal: Simulator: uniform vec2  pos;
+2018-09-08T06:51:25.288Z - normal: Simulator: void main(){
+2018-09-08T06:51:25.288Z - normal: Simulator:     vec4 c = v_fragmentColor * texture2D(CC_Texture0, 1.0-v_texCoord);
+2018-09-08T06:51:25.288Z - normal: Simulator:     // gl_FragColor.a = pos.x;
+2018-09-08T06:51:25.289Z - normal: Simulator: 
+2018-09-08T06:51:25.291Z - normal: Simulator:     // if((v_texCoord.x > pos.x-0.1) && (v_texCoord.x < pos.x+0.1)){
+2018-09-08T06:51:25.292Z - normal: Simulator:     //     gl_FragColor.a = 0.2;
+2018-09-08T06:51:25.292Z - normal: Simulator:     //     gl_FragColor.rgb = vec3(0.0 , 0.0 , 0.0);
+2018-09-08T06:51:25.292Z - normal: Simulator:         
+2018-09-08T06:51:25.292Z - normal: Simulator:     // }else{
+2018-09-08T06:51:25.292Z - normal: Simulator:     //     gl_FragColor.a = 1.0;
+2018-09-08T06:51:25.292Z - normal: Simulator:     //     gl_FragColor = c;
+2018-09-08T06:51:25.293Z - normal: Simulator:         
+2018-09-08T06:51:25.293Z - normal: Simulator:     // }
+2018-09-08T06:51:25.293Z - normal: Simulator:   
+2018-09-08T06:51:25.293Z - normal: Simulator:     if(distance(v_texCoord, pos) < 0.1){
+2018-09-08T06:51:25.293Z - normal: Simulator:         gl_FragColor.a = 0.2;
+2018-09-08T06:51:25.293Z - normal: Simulator:         gl_FragColor.rgb = vec3(0.0 , 0.0 , 0.0);
+2018-09-08T06:51:25.293Z - normal: Simulator:         
+2018-09-08T06:51:25.293Z - normal: Simulator:     }else{
+2018-09-08T06:51:25.294Z - normal: Simulator:         gl_FragColor.a = 1.0;
+2018-09-08T06:51:25.294Z - normal: Simulator:         gl_FragColor = c;
+2018-09-08T06:51:25.294Z - normal: Simulator:         
+2018-09-08T06:51:25.294Z - normal: Simulator:     }
+2018-09-08T06:51:25.294Z - normal: Simulator: }
+2018-09-08T06:51:25.294Z - normal: Simulator: JS: use native GLProgram
+2018-09-08T06:51:25.295Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.295Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.303Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.319Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.528Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.540Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.561Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.577Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.588Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.604Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.620Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.660Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.674Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.689Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.704Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.745Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.759Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.775Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.793Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.810Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.825Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.842Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.859Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.874Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.891Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.908Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.924Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.941Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.959Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.970Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:25.986Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.002Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.020Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.036Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.052Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.068Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.084Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.102Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.119Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.135Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.152Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.169Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.185Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.201Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.219Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.235Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.251Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.270Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.285Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.302Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.319Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.335Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.352Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.369Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.384Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.402Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.418Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.434Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.452Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.468Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.484Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.501Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.518Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.535Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.552Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.568Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.586Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.601Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.618Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.635Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.652Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.668Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.685Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.701Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.718Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.734Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.751Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.768Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.785Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.801Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.818Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.834Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.851Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.868Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.884Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.901Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.918Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.934Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.952Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.968Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:26.985Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.001Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.018Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.035Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.051Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.068Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.085Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.101Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.118Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.136Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.152Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.168Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.185Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.201Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.218Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.234Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.254Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.268Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.286Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.303Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.319Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.336Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.351Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.369Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.385Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.402Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.420Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.436Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.452Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.470Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.486Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.502Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.520Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.536Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.553Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.570Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.587Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.603Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.619Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.635Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.651Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.669Z - normal: Simulator: cocos2d: warning: Uniform not found: time
+2018-09-08T06:51:27.788Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-09-08T06:51:27.789Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 97
+2018-09-08T06:51:27.797Z - normal: Simulator: GC end ..., (Native -> JS map) count: 76
+2018-09-08T06:51:27.798Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 76
+2018-09-08T06:51:27.801Z - normal: Simulator: GC end ..., (Native -> JS map) count: 76
+2018-09-08T06:51:27.802Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 76
+2018-09-08T06:51:27.808Z - normal: Simulator: GC end ..., (Native -> JS map) count: 76
+2018-09-08T06:51:27.813Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-09-08T06:51:27.815Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-09-08T06:51:27.815Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-09-08T06:51:27.815Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-09-08T06:51:58.508Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.509Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.509Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.509Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.509Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:51:58.510Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.511Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.511Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:51:58.512Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:58.512Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:58.512Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:58.513Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:51:58.513Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.822Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.824Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.824Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.825Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.825Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:52:48.826Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.826Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.826Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:52:48.827Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:52:48.827Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:52:48.828Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:52:48.828Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:52:48.828Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.279Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.281Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.281Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.282Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.283Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:56:10.284Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.284Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.284Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:56:10.285Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:56:10.285Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:56:10.285Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:56:10.286Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:56:10.286Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.308Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.309Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.309Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.309Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.311Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:57:21.312Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.312Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.312Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:57:21.313Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:57:21.314Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:57:21.315Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:57:21.316Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:57:21.316Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.688Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.690Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.691Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.692Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.692Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T06:58:38.693Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.693Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.694Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T06:58:38.694Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:58:38.695Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:58:38.695Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:58:38.696Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T06:58:38.697Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.632Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.633Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.633Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.633Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.633Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:00:13.634Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.634Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.634Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:13.634Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:13.634Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:13.635Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:13.635Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:13.637Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.605Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.606Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.606Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.606Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.765Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:00:36.765Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.766Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.766Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:00:36.766Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:36.766Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:36.766Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:36.766Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:00:36.767Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.993Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.996Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.997Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.997Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.997Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:01:33.998Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.998Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.998Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:01:33.998Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:01:33.999Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:01:34.000Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:01:34.000Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:01:34.005Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.943Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.945Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.946Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.946Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.947Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:02:40.947Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.948Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.948Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:02:40.949Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:02:40.949Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:02:40.949Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:02:40.950Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:02:40.951Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.529Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.530Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.531Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.531Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.531Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:04:53.532Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.532Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.532Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:04:53.533Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:04:53.534Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:04:53.535Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:04:53.535Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:04:53.535Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.876Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.877Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.878Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.878Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.880Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:05:30.881Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.881Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.885Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:05:30.900Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:05:30.900Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:05:30.908Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:05:30.909Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:05:30.909Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.956Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.958Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.959Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.959Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.959Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:07:10.960Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.960Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.961Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:07:10.961Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:07:10.962Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:07:10.962Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:07:10.962Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:07:10.962Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.836Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.837Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.838Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.838Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.838Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:12:32.838Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.838Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.838Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:12:32.839Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:12:32.839Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:12:32.840Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:12:32.840Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:12:32.840Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.072Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.073Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.073Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.074Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.075Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:13:32.075Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.075Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.076Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:13:32.133Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:13:32.134Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:13:32.134Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:13:32.134Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:13:32.135Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.153Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.155Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.156Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.156Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.156Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:15:18.156Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.162Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.163Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:18.163Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:18.163Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:18.164Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:18.164Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:18.165Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.146Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.148Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.149Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.149Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.149Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:15:51.150Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.150Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.150Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:15:51.150Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:51.151Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:51.151Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:51.155Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:15:51.155Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.947Z - warn: Please specifiy a default value for "scrollview" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.949Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.951Z - warn: Please specifiy a default value for "content" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.952Z - warn: Please specifiy a default value for "item_tpl" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.954Z - failed: load script [../../appdata] failed : Error: Cannot find module '../../appdata'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:1:358
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:6:17)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/components/toast.js:96:13
+2018-09-08T07:16:56.955Z - warn: Please specifiy a default value for "rsultLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.955Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.955Z - warn: Please specifiy a default value for "promptLabel" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2018-09-08T07:16:56.956Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/BlotDataManager] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/BlotDataManager'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:6:25)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:16:56.957Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/CommonDef] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/CommonDef'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:7:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:16:56.958Z - failed: load script [./../../../../../work/nurture/nurture/creator.d] failed : Error: Cannot find module './../../../../../work/nurture/nurture/creator.d'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:8:19)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:16:56.959Z - failed: load script [./../../../../../work/nurture/nurture/assets/script/EventCenter] failed : Error: Cannot find module './../../../../../work/nurture/nurture/assets/script/EventCenter'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator1.8.2.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator1.8.2.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:967)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:1:364
+    at __define (/Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:9:21)
+    at /Users/zwf/Documents/my_space/my-base-componet/temp/quick-scripts/assets/script/effct/InteractBlotItem.js:166:13
+2018-09-08T07:16:56.960Z - warn: Please specifiy a default value for "mask" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;

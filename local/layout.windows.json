@@ -5,9 +5,9 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 502,
-      "y": 1463,
-      "width": 1440,
+      "x": 540,
+      "y": 1478,
+      "width": 1393,
       "height": 877,
       "layout": {
         "children": [
@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 375.234375,
+                "height": 375,
                 "type": "panel",
-                "width": 229.734375
+                "width": 222
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 407.765625,
+                "height": 408,
                 "type": "panel",
-                "width": 229.734375
+                "width": 222
               }
             ],
             "height": 786,
             "type": "dock-v",
-            "width": 229.734375
+            "width": 222
           },
           {
             "active": 0,
@@ -43,7 +43,7 @@
             ],
             "height": 786,
             "type": "panel",
-            "width": 342.359375
+            "width": 331
           },
           {
             "children": [
@@ -52,9 +52,9 @@
                 "children": [
                   "scene"
                 ],
-                "height": 500.3125,
+                "height": 500,
                 "type": "panel",
-                "width": 855.90625
+                "width": 827.984375
               },
               {
                 "active": 0,
@@ -62,14 +62,14 @@
                   "console",
                   "timeline"
                 ],
-                "height": 282.6875,
+                "height": 283,
                 "type": "panel",
-                "width": 855.90625
+                "width": 827.984375
               }
             ],
             "height": 786,
             "type": "dock-v",
-            "width": 855.90625
+            "width": 827.984375
           }
         ],
         "type": "dock-h"

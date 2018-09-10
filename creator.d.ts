@@ -7671,6 +7671,10 @@ declare module cc {
 		``` 
 		*/
 		getInsetBottom(): number;	
+		/**
+		 * 渲染节点，所有的渲染节点的根节点
+		 */
+		_sgNode: SGNode;
 	}	
 	/** !#en A distortion used to change the rendering of simple sprite.If will take effect after sprite component is added.
 	!#zh 扭曲效果组件,用于改变SIMPLE类型sprite的渲染,只有当sprite组件已经添加后,才能起作用. */
