@@ -5,8 +5,8 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 540,
-      "y": 1478,
+      "x": 538,
+      "y": 1463,
       "width": 1393,
       "height": 877,
       "layout": {
@@ -82,6 +82,32 @@
         "scene",
         "timeline"
       ]
+    },
+    "window-1536842403085": {
+      "main": false,
+      "url": "unpack://static/window.html",
+      "windowType": "dockable",
+      "x": 776,
+      "y": 1552,
+      "width": 400,
+      "height": 322,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "simple-package"
+            ],
+            "height": 300,
+            "type": "panel",
+            "width": 400
+          }
+        ],
+        "type": "dock-v"
+      },
+      "panels": [
+        "simple-package"
+      ]
     }
   },
   "panels": {
@@ -90,6 +116,18 @@
       "y": 177,
       "width": 500,
       "height": 522
+    },
+    "store": {
+      "x": 1062,
+      "y": 401,
+      "width": 1172,
+      "height": 755
+    },
+    "simple-package": {
+      "x": 776,
+      "y": 1552,
+      "width": 400,
+      "height": 322
     }
   }
 }
