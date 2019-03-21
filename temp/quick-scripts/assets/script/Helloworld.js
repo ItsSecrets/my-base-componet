@@ -11,12 +11,16 @@ var Helloworld = /** @class */ (function (_super) {
         _this.cardEffcPrefab = null;
         _this.mohuPrefab = null;
         _this.machinePrefab = null;
+        _this.listViewPrefab = null;
+        _this.screenCutPrefab = null;
         return _this;
     }
     Helloworld.prototype.onLoad = function () {
         // this.initEraserEffect();
         // this.initMohuPrefab();
-        this.initStateMachine();
+        // this.initStateMachine();
+        // this.initListVViewDemo();
+        this.initScreenCutDemo();
     };
     Helloworld.prototype.start = function () {
     };
@@ -33,6 +37,14 @@ var Helloworld = /** @class */ (function (_super) {
         var machineNode = cc.instantiate(this.machinePrefab);
         machineNode.parent = this.node;
     };
+    Helloworld.prototype.initListVViewDemo = function () {
+        var listViewNode = cc.instantiate(this.listViewPrefab);
+        listViewNode.parent = this.node;
+    };
+    Helloworld.prototype.initScreenCutDemo = function () {
+        var screenCutNode = cc.instantiate(this.screenCutPrefab);
+        screenCutNode.parent = this.node;
+    };
     __decorate([
         property(cc.Prefab)
     ], Helloworld.prototype, "cardEffcPrefab", void 0);
@@ -42,6 +54,12 @@ var Helloworld = /** @class */ (function (_super) {
     __decorate([
         property(cc.Prefab)
     ], Helloworld.prototype, "machinePrefab", void 0);
+    __decorate([
+        property(cc.Prefab)
+    ], Helloworld.prototype, "listViewPrefab", void 0);
+    __decorate([
+        property(cc.Prefab)
+    ], Helloworld.prototype, "screenCutPrefab", void 0);
     Helloworld = __decorate([
         ccclass
     ], Helloworld);

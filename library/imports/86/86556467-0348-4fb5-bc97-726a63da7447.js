@@ -25,26 +25,26 @@ var ListView_Demo = /** @class */ (function (_super) {
             scroll_to_end_cb: this.scroll_to_end_cb,
         });
         list.set_data([
-            "第1条数据啊啊啊啊",
-            "第2条数据啊啊啊啊",
-            "第3条数据啊啊啊啊",
-            "第4条数据啊啊啊啊",
-            "第5条数据啊啊啊啊",
-            "第6条数据啊啊啊啊",
-            "第7条数据啊啊啊啊",
-            "第8条数据啊啊啊啊",
-            "第9条数据啊啊啊啊",
-            "第10条数据啊啊啊啊",
-            "第11条数据啊啊啊啊",
-            "第12条数据啊啊啊啊",
-            "第13条数据啊啊啊啊",
-            "第14条数据啊啊啊啊",
-            "第15条数据啊啊啊啊",
-            "第16条数据啊啊啊啊",
-            "第17条数据啊啊啊啊",
-            "第18条数据啊啊啊啊",
-            "第19条数据啊啊啊啊",
-            "第20条数据啊啊啊啊",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
         ]);
     };
     ListView_Demo.prototype.on_item_select = function (data, index) {
@@ -54,7 +54,7 @@ var ListView_Demo = /** @class */ (function (_super) {
         item.getComponent(cc.Label).string = data.toString();
     };
     ListView_Demo.prototype.scroll_to_end_cb = function (event) {
-        console.log(event);
+        console.log("=======scroll_to_end_cb=========s");
     };
     __decorate([
         property(cc.ScrollView)
