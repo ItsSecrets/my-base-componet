@@ -17,16 +17,23 @@ export default class Helloworld extends cc.Component {
     @property(cc.Prefab)
     screenCutPrefab:cc.Prefab = null;
 
+    @property(cc.Prefab)
+    shaderPrefab:cc.Prefab = null;
+
+    @property(cc.Prefab)
+    dragonBonePrefab:cc.Prefab = null;
+
 
     onLoad() {
         // this.initEraserEffect();
         // this.initMohuPrefab();
         // this.initStateMachine();
         // this.initListVViewDemo();
-        this.initScreenCutDemo();
+        // this.initScreenCutDemo();
+        // this.initShaderDemo();
+        this.initDragonBoneDemo();
     }
-    start() {
-    }
+    start() {}
 
 
     // 橡皮擦效果
@@ -55,4 +62,13 @@ export default class Helloworld extends cc.Component {
         screenCutNode.parent = this.node;
     }
 
+    initShaderDemo(){
+        let shaderNode = cc.instantiate(this.shaderPrefab);
+        shaderNode.parent = this.node;
+    }
+
+    initDragonBoneDemo() {
+        let dragonBoneNode = cc.instantiate(this.dragonBonePrefab);
+        dragonBoneNode.parent = this.node;
+    }
 }

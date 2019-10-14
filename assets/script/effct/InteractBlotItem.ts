@@ -1,9 +1,9 @@
-import { BlotDataManager } from './../../../../../work/nurture/nurture/assets/script/BlotDataManager';
-import { TriggerType } from './../../../../../work/nurture/nurture/assets/script/CommonDef';
-import { EventType } from './../../../../../work/nurture/nurture/creator.d';
-import { EventCenter } from './../../../../../work/nurture/nurture/assets/script/EventCenter';
+// import { BlotDataManager } from './../../../../../work/nurture/nurture/assets/script/BlotDataManager';
+// import { TriggerType } from './../../../../../work/nurture/nurture/assets/script/CommonDef';
+// import { EventType } from './../../../../../work/nurture/nurture/creator.d';
+// import { EventCenter } from './../../../../../work/nurture/nurture/assets/script/EventCenter';
 
-import { EventType } from './EventType';
+// import { EventType } from './EventType';
 
 const { ccclass, property } = cc._decorator;
 

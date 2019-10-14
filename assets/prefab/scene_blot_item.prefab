@@ -20,13 +20,9 @@
     ],
     "_tag": -1,
     "_active": true,
-    "_components": [
-      {
-        "__id__": 9
-      }
-    ],
+    "_components": [],
     "_prefab": {
-      "__id__": 10
+      "__id__": 9
     },
     "_id": "",
     "_opacity": 255,
@@ -292,24 +288,6 @@
     },
     "fileId": "40cma7R55JE4n5s0ewMnxg",
     "sync": false
-  },
-  {
-    "__type__": "e3421RTyyVHcpbzNLmDK9DF",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 1
-    },
-    "_enabled": true,
-    "mask": {
-      "__id__": 7
-    },
-    "blotSprite": {
-      "__id__": 4
-    },
-    "touchNode": {
-      "__id__": 1
-    }
   },
   {
     "__type__": "cc.PrefabInfo",

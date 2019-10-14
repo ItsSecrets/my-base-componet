@@ -1,6 +1,5 @@
 import {pool_mgr} from "../pool/pool_mgr"
 import {handler, gen_handler} from "../utils"
-import {appdata} from "../../appdata"
 import {TweenUtil} from "../tween/tweenutil"
 
 export class toast

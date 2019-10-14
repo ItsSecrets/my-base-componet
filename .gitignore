@@ -9,8 +9,4 @@ library/
 local/
 /temp/
 build/
-*/settings/
-nohup.out
-/.idea/workspace.xml
-/.idea/vcs.xml
-/nurture/.vscode
+

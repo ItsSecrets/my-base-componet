@@ -28,7 +28,7 @@ export default class ListView_Demo extends cc.Component {
             select_cb: this.on_item_select,
             column: 1,
             row: 1,
-            direction: ListViewDir.Vertical,
+            direction: ListViewDir.Horizontal,
             scroll_to_end_cb: this.scroll_to_end_cb,
         });
         list.set_data([
@@ -55,8 +55,14 @@ export default class ListView_Demo extends cc.Component {
         ]);
     }
 
+
+    list_item_setter(item: cc.Node, desc: any, index: number): void {
+
+        //省略
+    }
     on_item_select(data: any, index: number) {
         cc.info(data, index);
+        console.log("=======on_item_select=========s");
     }
 
     update_list_item(item: cc.Node, data: any, index: number): void {
