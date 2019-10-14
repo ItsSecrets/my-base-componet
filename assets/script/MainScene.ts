@@ -1,7 +1,7 @@
 const { ccclass, property } = cc._decorator;
 
 @ccclass
-export default class Helloworld extends cc.Component {
+export default class MainScene extends cc.Component {
     @property(cc.Prefab)
     cardEffcPrefab: cc.Prefab = null;
 

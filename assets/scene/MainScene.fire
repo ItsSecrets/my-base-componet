@@ -21,7 +21,7 @@
     "_active": true,
     "_components": [],
     "_prefab": null,
-    "_id": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "_id": "540d89b2-67e6-4e7a-9fdd-9d20e05aadbb",
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
@@ -57,29 +57,26 @@
     "_children": [
       {
         "__id__": 3
-      },
-      {
-        "__id__": 6
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 9
+        "__id__": 6
       },
       {
-        "__id__": 10
+        "__id__": 7
       }
     ],
     "_prefab": null,
-    "_id": "a286bbGknJLZpRpxROV6M94",
+    "_id": "e8+LglhsZMZr7kXw3mmBdt",
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 252,
-      "g": 252,
-      "b": 252,
+      "r": 255,
+      "g": 255,
+      "b": 255,
       "a": 255
     },
     "_cascadeOpacityEnabled": true,
@@ -111,7 +108,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "background",
+    "_name": "New Sprite(Splash)",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -128,13 +125,13 @@
       }
     ],
     "_prefab": null,
-    "_id": "2cyujkhCpJKKiWIyQnxD1l",
+    "_id": "10ffgf06VJHY/SDQcM+FHC",
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 41,
-      "g": 66,
-      "b": 65,
+      "r": 51,
+      "g": 71,
+      "b": 71,
       "a": 255
     },
     "_cascadeOpacityEnabled": true,
@@ -217,115 +214,6 @@
     "_originalHeight": 100
   },
   {
-    "__type__": "cc.Node",
-    "_name": "New Sprite(Splash)",
-    "_objFlags": 0,
-    "_parent": {
-      "__id__": 2
-    },
-    "_children": [],
-    "_tag": -1,
-    "_active": false,
-    "_components": [
-      {
-        "__id__": 7
-      },
-      {
-        "__id__": 8
-      },
-      {
-        "_name": "",
-        "_objFlags": 0,
-        "node": {
-          "__id__": 6
-        },
-        "_enabled": false,
-        "isAllChildrenUse": true
-      },
-      {
-        "_name": "",
-        "_objFlags": 0,
-        "node": {
-          "__id__": 6
-        },
-        "_enabled": true
-      }
-    ],
-    "_prefab": null,
-    "_id": "5cCUDMldRMqYEb3An7uTi1",
-    "_opacity": 255,
-    "_color": {
-      "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "a": 255
-    },
-    "_cascadeOpacityEnabled": true,
-    "_anchorPoint": {
-      "__type__": "cc.Vec2",
-      "x": 0.5,
-      "y": 0.5
-    },
-    "_contentSize": {
-      "__type__": "cc.Size",
-      "width": 260,
-      "height": 70
-    },
-    "_rotationX": 0,
-    "_rotationY": 0,
-    "_scaleX": 1,
-    "_scaleY": 1,
-    "_position": {
-      "__type__": "cc.Vec2",
-      "x": 70,
-      "y": 265
-    },
-    "_skewX": 0,
-    "_skewY": 0,
-    "_localZOrder": 0,
-    "_globalZOrder": 0,
-    "_opacityModifyRGB": false,
-    "groupIndex": 0
-  },
-  {
-    "__type__": "cc.Sprite",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 6
-    },
-    "_enabled": true,
-    "_spriteFrame": {
-      "__uuid__": "7531d392-ce05-43c8-878b-fb9390d02875"
-    },
-    "_type": 0,
-    "_sizeMode": 2,
-    "_fillType": 0,
-    "_fillCenter": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "_fillStart": 0,
-    "_fillRange": 0,
-    "_isTrimmedMode": true,
-    "_srcBlendFactor": 770,
-    "_dstBlendFactor": 771,
-    "_atlas": null
-  },
-  {
-    "__type__": "4a6acqAkrVB2pVkhOW7rTpn",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 6
-    },
-    "_enabled": true,
-    "flagShader": "test",
-    "startOnLoad": false
-  },
-  {
     "__type__": "cc.Canvas",
     "_name": "",
     "_objFlags": 0,
@@ -342,7 +230,7 @@
     "_fitHeight": true
   },
   {
-    "__type__": "e1b90/rohdEk4SdmmEZANaD",
+    "__type__": "ecbd4dsz9JLlppvzbazAbFp",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -350,7 +238,7 @@
     },
     "_enabled": true,
     "cardEffcPrefab": {
-      "__uuid__": "dd281ac3-5c82-4d61-b1b5-46c91014fc8a"
+      "__uuid__": "bac720a3-4360-4a98-8b11-63e70b0c355d"
     },
     "mohuPrefab": {
       "__uuid__": "aae0d9e0-996e-4d69-9986-f8519c7f3180"

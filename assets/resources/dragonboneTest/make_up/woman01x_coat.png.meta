@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d2b43f82-16aa-457e-88cf-b668c12e9295",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "woman01x_coat": {
+      "ver": "1.0.3",
+      "uuid": "67f519b6-65ca-4ebb-8415-452e2eb617d2",
+      "rawTextureUuid": "d2b43f82-16aa-457e-88cf-b668c12e9295",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 10.5,
+      "trimX": 35,
+      "trimY": 26,
+      "width": 122,
+      "height": 198,
+      "rawWidth": 186,
+      "rawHeight": 271,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
